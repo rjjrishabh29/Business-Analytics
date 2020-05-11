@@ -1,0 +1,11 @@
+If the maximum number of any one fruit exceeds 10 pieces in an order,     
+    or the total order exceeds 20 pieces (all fruit),
+    then mark it with "Special Order". 
+Otherwise, mark it with "No". 
+
+
+EXCEL Formula :-  IF(OR(MAX(B2:D2)>10,E2>20),"Special Order","No")
+
+
+
+
