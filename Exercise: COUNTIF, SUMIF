@@ -1,0 +1,13 @@
+How many pitchers are on the roster?
+
+=COUNTIF(D:D,"=pitcher")
+
+
+How many players in the roster have a salary over $10,000,000?
+
+=COUNTIF(C:C,">10,000,000")
+
+
+How much money was spent in the league on salaries over $10,000,000?
+
+=SUMIF(C:C,">10,000,000")
