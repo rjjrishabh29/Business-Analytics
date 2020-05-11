@@ -7,5 +7,3 @@ Otherwise, mark it with "No".
 EXCEL Formula :-  IF(OR(MAX(B2:D2)>10,E2>20),"Special Order","No")
 
 
-
-
